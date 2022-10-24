@@ -1,5 +1,7 @@
 ## Reference based sketch extraction via attention mechanism
 
+This is official implementation of paper Reference based sketch extraction via attention mechanism
+[PAPER] (To be appear)
 Journal: ACM TOG
 
 Conference: SIGGRAPH ASIA 2022
