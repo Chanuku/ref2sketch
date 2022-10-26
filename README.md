@@ -37,7 +37,7 @@ https://drive.google.com/drive/folders/1OvU4pPVTFk07Kp5qKS6MNlsKhoUUckcR?usp=sha
 
 
 ## Dataset
-* Due to the regulation of twitter, we share the each url of twitter dataset used in paper. You can find twitter_dataset.json file from dataset folder.
+* Due to the regulation of twitter, we share each url of twitter dataset used in our paper. You can find twitter_dataset.json file from dataset folder.
 
 Twitter regulation
 https://developer.twitter.com/en/developer-terms/agreement-and-policy
@@ -63,5 +63,7 @@ https://developer.twitter.com/en/developer-terms/agreement-and-policy
     |       |   +---b
     |       |       |   +---train_groundtruth1.png
     |       |       |   +---train_groundtruth2.png
+    
+    #Paired input and groundtruth should have same filename
 
 ---
