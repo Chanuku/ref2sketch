@@ -1,14 +1,16 @@
 ## Reference based sketch extraction via attention mechanism
+<img src="ref2sketch/figures/teasors.JPG" width="900px"/>
 
-This is official implementation of the paper "Reference based sketch extraction via attention mechanism"
+
+This is official implementation of the paper **"Reference based sketch extraction via attention mechanism"**
 
 
 [PAPER] (To be appear)
 
 
-Journal: ACM TOG
-
+Journal: ACM TOG\
 Conference: SIGGRAPH ASIA 2022
+
 
         
 ## Train
@@ -39,8 +41,9 @@ https://drive.google.com/drive/folders/1OvU4pPVTFk07Kp5qKS6MNlsKhoUUckcR?usp=sha
 ## Dataset
 * Due to the regulation of twitter, we share each url of twitter dataset used in our paper. You can find twitter_dataset.json file from dataset folder.
 
-Twitter regulation
+**Twitter regulation**\
 https://developer.twitter.com/en/developer-terms/agreement-and-policy
+
 
 ## Dataset directories structure
     ref2sketch
@@ -65,5 +68,16 @@ https://developer.twitter.com/en/developer-terms/agreement-and-policy
     |       |       |   +---train_groundtruth2.png
     
     #Paired input and groundtruth should have same filename
+
+## Examples
+<img src="ref2sketch/result/examples/ref_sample1.jpg/sample2.jpg" width="300px"/><img src="ref2sketch/result/examples/ref_sample2.jpg/sample2.jpg" width="300px"/>
+
+<img src="ref2sketch/result/examples/ref_sample3.jpg/sample2.jpg" width="300px"/><img src="ref2sketch/result/examples/ref_sample4.jpg/sample2.jpg" width="300px"/>
+
+<img src="ref2sketch/result/examples/ref_sample1.jpg/sample7.jpg" width="150px"/><img src="ref2sketch/result/examples/ref_sample2.jpg/sample7.jpg" width="150px"/><img src="ref2sketch/result/examples/ref_sample3.jpg/sample7.jpg" width="150px"/><img src="ref2sketch/result/examples/ref_sample4.jpg/sample7.jpg" width="150px"/>
+
+<img src="ref2sketch/result/examples/ref_sample1.jpg/sample1.jpg" width="150px"/><img src="ref2sketch/result/examples/ref_sample2.jpg/sample1.jpg" width="150px"/><img src="ref2sketch/result/examples/ref_sample3.jpg/sample1.jpg" width="150px"/><img src="ref2sketch/result/examples/ref_sample4.jpg/sample1.jpg" width="150px"/>
+
+<img src="ref2sketch/result/examples/ref_sample1.jpg/sample4.jpg" width="150"/><img src="ref2sketch/result/examples/ref_sample2.jpg/sample4.jpg" width="150px"/><img src="ref2sketch/result/examples/ref_sample3.jpg/sample4.jpg" width="150px"/><img src="ref2sketch/result/examples/ref_sample4.jpg/sample4.jpg" width="150px"/>
 
 ---
