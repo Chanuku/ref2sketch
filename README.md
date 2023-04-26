@@ -4,6 +4,7 @@
 
 This is official implementation of the paper **"Reference based sketch extraction via attention mechanism"**
 
+**Amirsaman Ashtari***, **Chang Wook Seo***, Cholmin Kang, Sihun Cha, Junyong Noh (*equally contributed and listed alphabetically)
 
 [PAPER](https://dl.acm.org/doi/10.1145/3550454.3555504)
 
@@ -30,7 +31,7 @@ Conference: SIGGRAPH ASIA 2022
 ## Test
     $ python test.py --name_weight [weight_file] \
                      --name_data examples \
-                     --direction A2B \
+                     --direction a2b \
                      --cuda
 
 * Download the pretrained model from google drive
